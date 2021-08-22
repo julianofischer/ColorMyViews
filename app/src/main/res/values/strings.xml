@@ -10,4 +10,7 @@
     <string name="button_green">GREEN</string>
     <string name="how_to_play">How to play</string>
     <string name="info_text">Tap the screen and buttons</string>
+    <string name="red_button_text">Red</string>
+    <string name="yellow_button_text">Yellow</string>
+    <string name="green_button_text">Green</string>
 </resources>
